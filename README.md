@@ -1,2 +1,2 @@
 # teste-teste
-estou estudando git, estão estou testando meus estudos nesse repositório
+estou estudando git, então estou testando meus estudos nesse repositório
